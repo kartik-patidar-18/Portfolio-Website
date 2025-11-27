@@ -48,9 +48,9 @@ A modern, responsive, and dark-themed personal portfolio website built to showca
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure 
 
-```text
+
 /portfolio-kartik
 │
 ├── index.html      # Main HTML structure
@@ -64,7 +64,7 @@ Since this project uses the Tailwind CSS CDN, you do not need to install npm or 
    git clone [repo link](repo link)
 
  * Navigate to the folder:
-   cd Portfolio Website
+   cd Portfolio-Website
 
  * Open index.html:
    * Simply double-click index.html to open it in your browser.
