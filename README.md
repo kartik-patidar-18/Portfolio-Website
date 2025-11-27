@@ -59,10 +59,12 @@ A modern, responsive, and dark-themed personal portfolio website built to showca
 └── README.md       # Project documentation
 ```
 
+---
+
 ## ⚙️ How to Run Locally
 Since this project uses the Tailwind CSS CDN, you do not need to install npm or node_modules.
  * **Clone the repository:**
-   git clone [github.com/kartik-patidar-18/Portfolio-Website](github.com/kartik-patidar-18/Portfolio-Website)
+   git clone [https://github.com/kartik-patidar-18/Portfolio-Website](https://github.com/kartik-patidar-18/Portfolio-Website)
 
  * **Navigate to the folder:**
    cd Portfolio-Website
@@ -70,6 +72,8 @@ Since this project uses the Tailwind CSS CDN, you do not need to install npm or 
  * **Open index.html:**
    * Simply double-click index.html to open it in your browser.
    * Note: Ensure you have an active internet connection so the Tailwind script and Fonts can load.
+
+---
 
 ## 🎨 Customization Guide
 If you want to use this template for yourself, here is what you need to change:
@@ -88,6 +92,8 @@ If you want to use this template for yourself, here is what you need to change:
         accent: '#38bdf8',  // Change Primary Color
     }
 }
+
+---
 
 ## 📬 Contact
 **Kartik Patidar**
