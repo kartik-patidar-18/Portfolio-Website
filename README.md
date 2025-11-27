@@ -59,25 +59,26 @@ A modern, responsive, and dark-themed personal portfolio website built to showca
 
 ## ⚙️ How to Run Locally
 Since this project uses the Tailwind CSS CDN, you do not need to install npm or node_modules.
- * Clone the repository:
+ * **Clone the repository:**
    git clone [repo link](repo link)
 
- * Navigate to the folder:
+ * **Navigate to the folder:**
    cd Portfolio-Website
 
- * Open index.html:
+ * **Open index.html:**
    * Simply double-click index.html to open it in your browser.
    * Note: Ensure you have an active internet connection so the Tailwind script and Fonts can load.
-🎨 Customization Guide
+
+## 🎨 Customization Guide
 If you want to use this template for yourself, here is what you need to change:
- * Personal Info:
+ * **Personal Info:**
    * Open index.html and search for "Kartik Patidar" to replace with your name.
    * Update the mailto: links in the Contact section.
- * Images:
+ * **Images:**
    * Replace the Avatar URL in the Hero section:
      <img src="YOUR_IMAGE_URL_HERE" ... >
 
- * Colors:
+ * **Colors:**
    * The colors are defined in the tailwind.config script inside the <head> of index.html. You can modify the brand colors there:
      colors: {
     brand: {
@@ -87,11 +88,11 @@ If you want to use this template for yourself, here is what you need to change:
 }
 
 ## 📬 Contact
-Kartik Patidar
- * Email: patidarkartik2818@gmail.com
- * LinkedIn: https://www.linkedin.com/in/kartikpatidar0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
- * GitHub: https://github.com/kartik-patidar-18
- * Instagram: 
+**Kartik Patidar**
+ * **Email:** patidarkartik2818@gmail.com
+ * **LinkedIn:** https://www.linkedin.com/in/kartikpatidar0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+ * **GitHub:** https://github.com/kartik-patidar-18
+ * **Instagram:** https://www.instagram.com/kartik_ptdr_07?igsh=MXV1NHZ1eGdicHB2dA==
 <p align="center">
 Made with ❤️ and ☕ by Kartik Patidar
 </p>
