@@ -50,17 +50,19 @@ A modern, responsive, and dark-themed personal portfolio website built to showca
 
 ## 📂 Folder Structure 
 
+```text
 /portfolio-kartik
 │
 ├── index.html      # Main HTML structure
 ├── style.css       # Custom animations, scrollbars, and overrides
 ├── script.js       # Logic for mobile menu, scroll animations, navbar
 └── README.md       # Project documentation
+```
 
 ## ⚙️ How to Run Locally
 Since this project uses the Tailwind CSS CDN, you do not need to install npm or node_modules.
  * **Clone the repository:**
-   git clone [repo link](repo link)
+   git clone [github.com/kartik-patidar-18/Portfolio-Website](github.com/kartik-patidar-18/Portfolio-Website)
 
  * **Navigate to the folder:**
    cd Portfolio-Website
