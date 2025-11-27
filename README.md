@@ -50,7 +50,6 @@ A modern, responsive, and dark-themed personal portfolio website built to showca
 
 ## 📂 Folder Structure 
 
-
 /portfolio-kartik
 │
 ├── index.html      # Main HTML structure
@@ -58,7 +57,7 @@ A modern, responsive, and dark-themed personal portfolio website built to showca
 ├── script.js       # Logic for mobile menu, scroll animations, navbar
 └── README.md       # Project documentation
 
-⚙️ How to Run Locally
+## ⚙️ How to Run Locally
 Since this project uses the Tailwind CSS CDN, you do not need to install npm or node_modules.
  * Clone the repository:
    git clone [repo link](repo link)
@@ -87,7 +86,7 @@ If you want to use this template for yourself, here is what you need to change:
     }
 }
 
-📬 Contact
+## 📬 Contact
 Kartik Patidar
  * Email: patidarkartik2818@gmail.com
  * LinkedIn: https://www.linkedin.com/in/kartikpatidar0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
