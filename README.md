@@ -98,9 +98,10 @@ If you want to use this template for yourself, here is what you need to change:
 ## 📬 Contact
 **Kartik Patidar**
  * **Email:** patidarkartik2818@gmail.com
- * **LinkedIn:** https://www.linkedin.com/in/kartikpatidar0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+ * **LinkedIn:** https://www.linkedin.com/in/kartikpatidar0
  * **GitHub:** https://github.com/kartik-patidar-18
- * **Instagram:** https://www.instagram.com/kartik_ptdr_07?igsh=MXV1NHZ1eGdicHB2dA==
+ * **Instagram:** https://www.instagram.com/kartik_ptdr_07
+ 
 <p align="center">
 Made with ❤️ and ☕ by Kartik Patidar
 </p>
